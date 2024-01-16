@@ -682,4 +682,10 @@ export default [
     image: '/logos/accounts/archly.png',
     environment: 'mainnet',
   },
+  {
+    address: 'axelar1x7gaje72e4krp7jq9mf7ad6r0hjc2vscjh22e6',
+    name: 'SKYSKIPPER',
+    image: '/logos/accounts/axelarnet.png',
+    environment: 'testnet',
+  },
 ]
